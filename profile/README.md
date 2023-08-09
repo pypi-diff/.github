@@ -1,3 +1,7 @@
+Update: I've stopped running this, not enough compute resources
+
+--
+
 Daily generated diffs for pypi package releases
 
 processes the pypi changelog and if a new release for a package is published, attempts to create diffs between old and new version using diffoscope.
